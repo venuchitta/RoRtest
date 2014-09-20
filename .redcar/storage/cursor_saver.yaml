@@ -1,0 +1,12 @@
+--- 
+cursor_positions: 
+  - :path: app/assets/stylesheets/application.css
+    :cursor_offset: 0
+    :timestamp: 2014-09-19 00:15:11 -06:00
+  - :path: app/assets/javascripts/application.js
+    :cursor_offset: 664
+    :timestamp: 2014-09-19 00:15:11 -06:00
+  - :path: .gitignore
+    :cursor_offset: 336
+    :timestamp: 2014-09-19 20:43:21 -06:00
+files_to_retain: 0

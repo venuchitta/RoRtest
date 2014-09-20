@@ -1,0 +1,6 @@
+1411181004
+Application	/home/venus/Desktop/rails_proj/first_app/config/application.rb	  class Application 
+ApplicationController	/home/venus/Desktop/rails_proj/first_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/venus/Desktop/rails_proj/first_app/app/helpers/application_helper.rb	module ApplicationHelper
+FirstApp	/home/venus/Desktop/rails_proj/first_app/config/application.rb	module FirstApp
+TestCase	/home/venus/Desktop/rails_proj/first_app/test/test_helper.rb	class ActiveSupport::TestCase
